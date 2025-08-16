@@ -1,0 +1,13 @@
+.custom-navbar {
+    background-color: #003366 !important; /* Navi Blue */
+  }
+  
+  .custom-navbar .navbar-brand,
+  .custom-navbar .nav-link,
+  .custom-navbar .btn {
+    color: white !important; /* White text */
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #ffcc00 !important; /* Optional: Highlight on hover */
+  }
